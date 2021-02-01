@@ -16,4 +16,13 @@
 - Internet Connection
 - Github Account
 
+---
+## best places to visit 
+These are my favourite places that i would recommend someone to visit
+| Location | Spending hours | Expenditure |
+| :---: | :---: | :---: |
+| Florida | 6 | $1000 |
+| Oregon | 10 | $1200 |
+| Newyork | 48 | $2000 |
+
 
