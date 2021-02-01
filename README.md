@@ -25,4 +25,14 @@ These are my favourite places that i would recommend someone to visit
 | Oregon | 10 | $1200 |
 | Newyork | 48 | $2000 |
 
+---
+# quotes
+> “ The purpose of our lives is to be happy.” — *Dalai Lama*
+
+> “ Life is what happens when you're busy making other plans.” — *John Lennon*
+
+> “ Get busy living or get busy dying.” — *Stephen King*
+
+
+
 
