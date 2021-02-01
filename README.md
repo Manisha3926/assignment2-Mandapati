@@ -12,3 +12,8 @@
   3. Type the branch name
 3. Make changes to a file and push them to GitHub as commits
 4. Open and merge a pull request
+
+
+- Internet connection
+- Github account
+
