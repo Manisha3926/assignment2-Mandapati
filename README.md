@@ -2,7 +2,7 @@
 # Manisha Mandapati
 ###### Fried rice
 >Fried rice is a dish of cooked rice that has been **stir-fried** in a wok or a frying pan and is usually mixed with other ingredients such as eggs, vegetables, seafood, or meat. It is often eaten by itself or as an accompaniment to another dish
-
+![fried rice](images/fried rice.jpg)
 ---
 **Steps to create github repository**
 1. Create and use a repository
@@ -16,6 +16,10 @@
 - Internet Connection
 - Github Account
 
+
+
+**[About me](AboutMe.md)**
+
 ---
 ## best places to visit 
 These are my favourite places that i would recommend someone to visit
@@ -24,6 +28,10 @@ These are my favourite places that i would recommend someone to visit
 | Florida | 6 | $1000 |
 | Oregon | 10 | $1200 |
 | Newyork | 48 | $2000 |
+
+![Florida](images/florida.jpg)
+![Oregon](images/oregon.jpg)
+![Newyork](images/newyork.jpg)
 
 ---
 # quotes
