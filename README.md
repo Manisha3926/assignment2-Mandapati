@@ -29,6 +29,7 @@ These are my favourite places that i would recommend someone to visit
 | Florida | 6 | $1000 |
 | Oregon | 10 | $1200 |
 | Newyork | 48 | $2000 |
+| California | 48 | $1500 |
 
 ![Florida](images/florida.jpg)
 ![Oregon](images/oregon.jpg)
